@@ -1,0 +1,21 @@
+.grid{
+    height: 75px;
+    width: 250px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 10px;
+    text-align:justify;
+    border-style: dashed;
+    border-radius: 10px;
+    background-color: rgba(112, 112, 252, 0.76);
+}
+.name{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.location{
+    text-align: center;
+    margin-top: 10px;
+}

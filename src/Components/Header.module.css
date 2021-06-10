@@ -1,0 +1,26 @@
+.head{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(7, 7, 7);
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.search{
+    color: white;
+    margin-left:20px;
+    padding: 5px;
+    position: absolute;
+}
+
+.searchbar{
+position: absolute;
+top: 10px;
+left:70%;
+height: 30px;
+width:300px;
+border-radius: 5px;
+border-style: none;
+outline: none;
+font-size: medium;
+}
